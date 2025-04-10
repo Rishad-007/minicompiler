@@ -1,0 +1,14 @@
+# Flex and Bison generated files
+lex.yy.c
+y.tab.c
+y.tab.h
+
+# Compiler output binary
+compiler
+
+# Editor/OS generated files
+*.swp
+*.out
+*.o
+.DS_Store
+
