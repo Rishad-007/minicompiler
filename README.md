@@ -60,7 +60,8 @@ while (2 < 4) {
   print(2);
   break;
 }
-
+````
+---
 ## 📤 Sample Output
 
 ```plaintext
