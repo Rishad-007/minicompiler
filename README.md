@@ -60,7 +60,8 @@ while (2 < 4) {
   print(2);
   break;
 }
-
+````
+---
 ## 📤 Sample Output
 
 ```plaintext
@@ -103,5 +104,6 @@ gcc y.tab.c lex.yy.c -o compiler -ll   # Compile the compiler
 
 - **Name:** MD. Rishad Nur
 - **University:** Begum Rokeya University, Rangpur
+- **Dept:** Computer Science & Engineering (CSE)
 - **Level-Term:** 4th year, 1st semester
 - **Email:** rishad.nur007@gmail.com
